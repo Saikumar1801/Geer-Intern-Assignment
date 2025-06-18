@@ -1,6 +1,8 @@
 # Geer.in - Full Stack Intern Assignment
 
 This project is a simple e-commerce product listing application built as part of an internship assignment. It includes a frontend for displaying products and a backend API for managing them.
+![screencapture-localhost-3000-2025-06-18-20_09_14](https://github.com/user-attachments/assets/c217429b-564a-44ea-8483-b5fb88a9f78e)
+![screencapture-localhost-3000-products-2025-06-18-20_07_38](https://github.com/user-attachments/assets/ded7533e-ec8f-4160-a30f-60de65ddcaab)
 
 ## How to Run the Project
 
