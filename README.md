@@ -6,8 +6,8 @@ This project is a simple e-commerce product listing application built as part of
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/<Your-GitHub-Username>/geer-intern-assignment.git
-    cd geer-intern-assignment
+    git clone https://github.com/Saikumar1801/Geer-Intern-Assignment.git
+    cd Geer-Intern-Assignment
     ```
 
 2.  **Install dependencies:**
